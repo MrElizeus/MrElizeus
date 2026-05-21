@@ -21,7 +21,7 @@ I build production business software while studying chemistry and exploring scie
 
 ### Backend, web and databases
 
-[![Backend, Web and Databases](https://skillicons.dev/icons?i=python,php,laravel,postgres,react,nextjs,js,ts,nodejs,html,css,tailwind)](https://skillicons.dev)
+[![Backend, Web and Databases](https://skillicons.dev/icons?i=php,laravel,python,postgres,react,nextjs,js,ts,nodejs,html,css,tailwind)](https://skillicons.dev)
 
 ### Data, ML and computational chemistry
 
