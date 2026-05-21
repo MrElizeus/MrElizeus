@@ -10,7 +10,7 @@ I build production business software while studying chemistry and exploring scie
 
 - Chemistry student at **UNMSM**
 - Full-stack developer focused on **ERP/CRM systems and internal tools**
-- Practical experience with **Laravel, PostgreSQL, React, Next.js and Linux servers**
+- Practical experience with **Python, Laravel, PostgreSQL, React, Next.js and Linux servers**
 - RHEL-oriented Linux user: **Fedora, Rocky Linux and enterprise-style environments**
 - Interested in **data analysis, ML, DFT, Gaussian, ORCA, molecular modeling and quantum chemistry**
 - I like useful, maintainable and technically grounded software
@@ -19,9 +19,9 @@ I build production business software while studying chemistry and exploring scie
 
 ## 🛠️ Tech stack
 
-### Web, backend and databases
+### Backend, web and databases
 
-[![Web Stack](https://skillicons.dev/icons?i=php,laravel,postgres,react,nextjs,js,ts,nodejs,html,css,tailwind)](https://skillicons.dev)
+[![Backend, Web and Databases](https://skillicons.dev/icons?i=python,php,laravel,postgres,react,nextjs,js,ts,nodejs,html,css,tailwind)](https://skillicons.dev)
 
 ### Data, ML and computational chemistry
 
